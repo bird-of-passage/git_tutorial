@@ -1,4 +1,1 @@
 Wow! we are learning git..
-We have completed our first commit..Its amazing.
-we have learned a lot about git..
-now we can start using git and github.
